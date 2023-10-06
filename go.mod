@@ -1,4 +1,4 @@
-module github.com/portworx/secret_manager
+module github.com/PradyumanAgrawal/test_sm
 
 go 1.18
 
